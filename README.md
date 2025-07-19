@@ -14,3 +14,19 @@ project features
 -partial support for emojis for number conversion
 
 -A very heavy try memory management
+
+
+minimum requirements
+
+-python 3.9 or higher
+
+-1 core cpu
+
+
+recommended requirements
+
+-python 3.9 or higher
+
+-2 core cpu
+
+#note thread count does not matter per core
