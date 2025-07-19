@@ -71,6 +71,7 @@ if cpu_count >= 2:
     task1.join
     task2.join
     re_thread()
+    quit()
 
     
 else:
@@ -78,6 +79,7 @@ else:
     re_var1()
     results()
     re_thread()
+    quit()
 
 
 
