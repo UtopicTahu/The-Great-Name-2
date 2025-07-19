@@ -1,1 +1,11 @@
 # The-Great-Name-2
+The Great Name 2 is used to convert string text into a number form using a python coding language that was used in one of my classes for a project.
+
+I have chosen to make open source due to it just being simple code that you could probably write in a day.
+
+project features
+-convert strings into numbers
+-partial multi-threading support 
+-single threading fallback
+-partial support for emojis for number conversion
+-A very heavy try memory management
